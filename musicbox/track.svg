@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="track" viewBox="0 0 144 32" style="background-color:#ffffff00" version="1.1" x="0px" y="0px" width="144px" height="32px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="color" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop stop-color="#ffffff" stop-opacity="1" offset="0"/>
+      <stop stop-color="#c8c8c8" stop-opacity="1" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="track" fill="url(#color)" transform="matrix(2.955419, 0, 0, 3.444717, -14.507231, -0.993912)">
+    <g id="g-1" transform="matrix(0.084931, 0, 0, 0.061917, 9.345654, -0.666391)">
+      <path id="path-1" d="M20.5,75.5l39-27.5l-39-27.5V75.5z"/>
+      <path id="path-1" d="M 50.411 20.317 L 50.411 39.042 L 50.411 75.317 L 59.611 75.317 L 59.611 20.317 L 50.411 20.317 Z"/>
+    </g>
+    <g id="g-2" transform="matrix(-0.084931, 0, 0, 0.061917, 10.319942, -0.694215)">
+      <path id="path-2" d="M20.5,75.5l39-27.5l-39-27.5V75.5z"/>
+      <path id="path-2" d="M 50.411 20.317 L 50.411 39.042 L 50.411 75.317 L 59.611 75.317 L 59.611 20.317 L 50.411 20.317 Z"/>
+    </g>
+  </g>
+</svg>

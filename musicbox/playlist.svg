@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="playlist" viewBox="0 0 144 32" style="background-color:#ffffff00" version="1.1" x="0px" y="0px" width="144px" height="32px" xmlns="http://www.w3.org/2000/svg">
+  <style type="text/css">
+	.st0{fill:#7B7B7B;}
+  .st1{fill:#ffffff;}
+</style>
+  <g id="list">
+    <g id="listoff" transform="matrix(0.272727, 0, 0, 0.283227, 17.856459, -4.023804)">
+      <rect id="XMLID_3_" x="20.5" y="37" class="st0" width="44px" height="7.3px"/>
+      <rect id="XMLID_4_" x="20.5" y="22.3" class="st0" width="44px" height="7.3px"/>
+      <rect id="XMLID_5_" x="20.5" y="51.7" class="st0" width="29.3px" height="7.3px"/>
+      <polygon id="XMLID_6_" class="st0" points="57.2,51.7 57.2,73.7 75.5,62.7"/>
+    </g>
+    <g id="liston" transform="matrix(0.272727, 0, 0, 0.283227, -1.659699, -3.9294)">
+      <rect id="rect-1" x="20.5" y="37" class="st1" width="44px" height="7.3px"/>
+      <rect id="rect-2" x="20.5" y="22.3" class="st1" width="44px" height="7.3px"/>
+      <rect id="rect-3" x="20.5" y="51.7" class="st1" width="29.3px" height="7.3px"/>
+      <polygon id="polygon-1" class="st1" points="57.2,51.7 57.2,73.7 75.5,62.7"/>
+    </g>
+  </g>
+</svg>

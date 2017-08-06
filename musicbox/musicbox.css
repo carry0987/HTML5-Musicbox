@@ -1,0 +1,90 @@
+#footer{
+    margin: auto;
+}
+
+.mejs-layers .mejs-playlist {
+    height: 122px !important;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+ul.mejs li {
+    width: 100%;
+    font-size: 10px;
+    text-align: left;
+    padding-left: 6px;
+}
+
+.mejs-playlist li:hover {
+    color: white;
+}
+
+.mejs-playlist li.current {
+    color: yellow;
+    font-weight: bold;
+}
+
+.mejs-poster {
+    max-width: 40px;
+    max-height: 40px;
+    margin: 5px; 
+}
+
+.mejs-title {
+    position: absolute;
+    left: 50px; 
+    top: 0px;
+    margin: 5px;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    width: 80% !important;
+    height: 50% !important;
+    overflow: hidden;
+    word-break: break-all;
+}
+
+.ml span {
+    color: white;
+}
+
+.mejs-controls .mejs-volume-button .mejs-volume-slider {
+    height: 65px;
+    top: -65px;
+}
+
+.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-total {
+    height: 50px;
+}
+
+.mCSB_scrollTools {
+    width: 8px;
+}
+
+.mCSB_inside > .mCSB_container {
+    margin-right: 0;
+}
+
+.mCS-minimal.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    background-color: rgba(0, 156, 229, 0.5);
+}
+
+.mCS-minimal.mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar {
+    background-color: rgba(0, 156, 229, 0.8);
+}
+
+.mCS-minimal.mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar {
+    background-color: rgba(0, 156, 229, 1);
+}
+
+.mCSB_outside + .mCS-minimal.mCSB_scrollTools_vertical, .mCSB_outside + .mCS-minimal-dark.mCSB_scrollTools_vertical {
+    margin: 1px 0;
+}
+
+.mCS-autoHide > .mCustomScrollBox > .mCSB_scrollTools, .mCS-autoHide > .mCustomScrollBox ~ .mCSB_scrollTools {
+    opacity: 1;
+}
+
+.mCS-minimal.mCSB_scrollTools .mCSB_draggerRail, .mCS-minimal-dark.mCSB_scrollTools .mCSB_draggerRail {
+    background-color: darkgray;
+}
