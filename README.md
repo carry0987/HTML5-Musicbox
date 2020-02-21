@@ -2,7 +2,7 @@
 HTML5 musicplayer , playlist and cover.
 
 ## Usage
-You must set three value [here](https://github.com/carry0987/Web-Musicbox/blob/master/musicbox/musiccontrol.js#L14-L16) :<br />
+You must set three value [here](https://github.com/carry0987/HTML5-Musicbox/blob/master/musicbox/musiccontrol.js#L14-L16) :<br />
 ```
     var $div_mejs = '#footer'; //Please set the div's ID here which is under this player
     var $mobile_height = 90; //Set playlist height in mobile
@@ -10,7 +10,7 @@ You must set three value [here](https://github.com/carry0987/Web-Musicbox/blob/m
 ```
 
 ## Demo
-[Demo](https://carry0987.github.io/Web-Musicbox)
+[Demo](https://carry0987.github.io/HTML5-Musicbox/)
 
 ## Download
-[Download](https://github.com/carry0987/Web-Musicbox/releases)
+[Download](https://github.com/carry0987/HTML5-Musicbox/releases)
